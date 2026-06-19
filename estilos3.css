@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+    font-family:Arial;
+    background-color: rgb(192, 130, 250);
+}
+
+
+input{
+    width: 60px;
+    margin: 5px;
+    padding: 5px;
+}
+
+
+#resultado{
+    margin-top: 20px;
+    font-size: 18px;
+}
